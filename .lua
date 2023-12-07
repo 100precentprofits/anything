@@ -64,7 +64,7 @@ getgenv().CreateUI = function()
     Background.BackgroundColor3 = Color3.fromRGB(36, 36, 36)
     Background.BorderColor3 = Color3.fromRGB(0, 0, 0)
     Background.BorderSizePixel = 0
-    Background.Position = UDim2.new(0.525, 0, 0.552, 0)
+    Background.Position = UDim2.new(0.605, 0, 0.552, 0)
     Background.Size = UDim2.new(0, 588, 0, 321)
 
     UICorner.CornerRadius = UDim.new(0, 13)
