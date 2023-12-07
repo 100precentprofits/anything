@@ -130,7 +130,7 @@ getgenv().CreateUI = function()
 	DisplayName.TextStrokeTransparency = 0.000
 	DisplayName.TextXAlignment = Enum.TextXAlignment.Left
 
-	Username.Name = ""
+	Username.Name = "Username"
 	Username.Parent = Top
 	Username.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 	Username.BackgroundTransparency = 1.000
